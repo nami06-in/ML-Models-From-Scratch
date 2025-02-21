@@ -1,5 +1,5 @@
 
-# **🚀 Gradient Descent in Python for Single Feature**
+# **🚀Python Implementation of Gradient Descent with Single Feature**
 
 
 This repository applies mathematical techniques to demonstrate how Linear Gradient Descent works.
